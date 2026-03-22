@@ -1,4 +1,4 @@
-Funcionalidades principais:
+ Funcionalidades principais:
 Criar tela inicial
 Criar cadastro de usuário
 Criar login
@@ -12,3 +12,9 @@ Editar roupa
 Categorizar roupa (camiseta, calça, etc)
 Adicionar imagem da roupa
 
+ Outfits:
+Criar outfit
+Editar outfit
+Excluir outfit
+Visualizar outfits salvos
+Compartilhar outfit
