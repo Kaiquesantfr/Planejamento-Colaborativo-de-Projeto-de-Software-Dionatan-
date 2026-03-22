@@ -18,3 +18,11 @@ Editar outfit
 Excluir outfit
 Visualizar outfits salvos
 Compartilhar outfit
+Modelo 3d
+
+ Sistemas:
+Criar banco de dados
+Salvar dados localmente
+Criar menu de navegação
+Criar sistema de favoritos
+Criar sistema de recomendações
