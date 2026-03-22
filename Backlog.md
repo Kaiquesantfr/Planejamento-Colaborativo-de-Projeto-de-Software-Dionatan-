@@ -26,3 +26,9 @@ Salvar dados localmente
 Criar menu de navegação
 Criar sistema de favoritos
 Criar sistema de recomendações
+
+ Interface:
+Criar layout responsivo
+Estilizar botões
+Criar tela de loading
+Criar tela de erro
