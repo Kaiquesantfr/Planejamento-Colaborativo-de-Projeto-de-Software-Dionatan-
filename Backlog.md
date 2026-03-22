@@ -32,3 +32,12 @@ Criar layout responsivo
 Estilizar botões
 Criar tela de loading
 Criar tela de erro
+
+Configurações para uma experiencia agradavél:
+Adicionar tema escuro
+Criar sistema de curtidas
+Criar ranking de outfits
+Notificações
+Filtro por estilo
+Busca de roupas
+Histórico de outfits
