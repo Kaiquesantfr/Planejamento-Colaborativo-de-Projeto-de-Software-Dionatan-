@@ -42,3 +42,9 @@ Descrição: Alterar combinações já criadas.
 
 * 13.Excluir outfit
 Descrição: Remover outfits salvos.
+
+* 14.Visualizar outfits salvos
+Descrição: Listar todas as combinações criadas pelo usuário.
+
+* 15.Compartilhar outfit
+Descrição: Permitir compartilhar outfits com outros usuários.
